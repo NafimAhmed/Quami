@@ -1,0 +1,8 @@
+ 0.00 ppm
+ 0.25 ppm
+ 0.50 ppm
+ 1.00 ppm
+ 2.00 ppm
+ 3.00 ppm
+ 5.00 ppm
+ 10.00 ppm

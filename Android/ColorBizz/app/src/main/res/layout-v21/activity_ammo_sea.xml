@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Ammo_Sea">
+
+    <Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/amm_sea"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sea water Ammonia\n(লবনাক্ত পানির অ্যামোনিয়া)"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            ></TextView>
+
+
+
+    </Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:id="@+id/img"
+            android:autofillHints="name"
+            android:src="@drawable/ic_baseline_add_a_photo_24"
+            android:onClick="select_image"
+            >
+
+
+        </ImageView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn"
+            android:text="Check"
+            android:textSize="25dp"
+            android:onClick="classify"
+            android:visibility="gone"
+            ></Button>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv"
+            android:hint="match"
+            android:textSize="25dp"
+            android:visibility="gone"
+            ></TextView>
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
