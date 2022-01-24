@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/drawable/amm_fresh.xml" value="0.22037037037037038" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/drawable/amm_sea.xml" value="0.22037037037037038" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/drawable/ic_baseline_device_amm_24.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/drawable/ic_baseline_device_ph_24.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/drawable/ic_baseline_waves_24.xml" value="0.25462962962962965" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/drawable/round_corner.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout-v21/activity_ammo_sea.xml" value="0.21693840579710144" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/activity_ammo_fresh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/activity_ammo_sea.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/activity_home_page.xml" value="0.25" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/activity_menual.xml" value="0.20606884057971014" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/activity_ph_page.xml" value="0.21693840579710144" />
+        <entry key="..\:/Android/ColorBizz/app/src/main/res/layout/layout.xml" value="0.17481884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
